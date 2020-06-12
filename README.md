@@ -16,7 +16,7 @@
 
   * **TAR/GZ archive** `wget https://github.com/FOGProject/fogproject/archive/master.tar.gz; tar xzf master.tar.gz`
 
-  * **git** `git clone https://github.com/fogproject/fogproject.git fogproject-master`
+  * **git** `git clone https://github.com/FOGproject/fogproject.git fogproject-master`
 
 2. Run the install script **as root** and follow all prompts accordingly
 
